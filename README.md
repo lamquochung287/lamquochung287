@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quochunglam287) 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamquochung287" alt="lamquochung287" /></a> </p>
 
